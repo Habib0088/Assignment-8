@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "ChatWave",
+    "companyName": "WaveTech",
+    "id": 1,
+    "description": "A real-time chat app with secure messaging and group video calls.",
+    "size": 85,
+    "reviews": 24300,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 6800 },
+      { "name": "5 star", "count": 12800 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "TaskFlow",
+    "companyName": "Prodigy Labs",
+    "id": 2,
+    "description": "Organize your daily tasks with AI-powered scheduling assistance.",
+    "size": 60,
+    "reviews": 18000,
+    "ratingAvg": 4.2,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 8100 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "FitBuddy",
+    "companyName": "HealthWorks",
+    "id": 3,
+    "description": "Track workouts, monitor calories, and achieve your fitness goals easily.",
+    "size": 95,
+    "reviews": 52000,
+    "ratingAvg": 4.7,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 33300 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "LearnIt",
+    "companyName": "EduVerse",
+    "id": 4,
+    "description": "An e-learning platform offering video courses and coding challenges.",
+    "size": 120,
+    "reviews": 34000,
+    "ratingAvg": 4.6,
+    "downloads": 4.5,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 9600 },
+      { "name": "5 star", "count": 18100 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "Musicly",
+    "companyName": "SonicWave",
+    "id": 5,
+    "description": "Stream unlimited songs, create playlists, and discover trending artists.",
+    "size": 70,
+    "reviews": 105000,
+    "ratingAvg": 4.4,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 2300 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 14500 },
+      { "name": "4 star", "count": 26000 },
+      { "name": "5 star", "count": 58000 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "PicArt Studio",
+    "companyName": "PixelCraft",
+    "id": 6,
+    "description": "Create, edit, and enhance photos with AI-based artistic filters.",
+    "size": 110,
+    "reviews": 79000,
+    "ratingAvg": 4.3,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 1600 },
+      { "name": "2 star", "count": 2800 },
+      { "name": "3 star", "count": 9300 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 47300 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "Foodster",
+    "companyName": "EatNow Inc.",
+    "id": 7,
+    "description": "Order delicious meals from nearby restaurants and track deliveries live.",
+    "size": 90,
+    "reviews": 41000,
+    "ratingAvg": 4.1,
+    "downloads": 3.5,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3600 },
+      { "name": "3 star", "count": 8100 },
+      { "name": "4 star", "count": 10300 },
+      { "name": "5 star", "count": 16500 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "Travelio",
+    "companyName": "WanderWorld",
+    "id": 8,
+    "description": "Plan trips, book hotels, and explore top destinations worldwide.",
+    "size": 75,
+    "reviews": 25000,
+    "ratingAvg": 4.5,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 12800 }
+    ]
+  }
+]
