@@ -1,146 +1,146 @@
 [
   {
-    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
-    "title": "ChatWave",
-    "companyName": "WaveTech",
+    "image": "https://img.freepik.com/free-vector/purple-speech-bubble-message-icon_24877-82912.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "ChatMaster",
+    "companyName": "AI Labs",
     "id": 1,
-    "description": "A real-time chat app with secure messaging and group video calls.",
-    "size": 85,
-    "reviews": 24300,
+    "description": "ChatMaster is an AI-powered chat app that lets users talk with smart virtual assistants. Offers language translation, voice recognition, and conversation personalization.",
+    "size": 50,
+    "reviews": 50000,
     "ratingAvg": 4.5,
-    "downloads": 5,
-    "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 900 },
-      { "name": "3 star", "count": 3200 },
-      { "name": "4 star", "count": 6800 },
-      { "name": "5 star", "count": 12800 }
-    ]
-  },
-  {
-    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
-    "title": "TaskFlow",
-    "companyName": "Prodigy Labs",
-    "id": 2,
-    "description": "Organize your daily tasks with AI-powered scheduling assistance.",
-    "size": 60,
-    "reviews": 18000,
-    "ratingAvg": 4.2,
-    "downloads": 2,
-    "ratings": [
-      { "name": "1 star", "count": 700 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 4000 },
-      { "name": "4 star", "count": 6000 },
-      { "name": "5 star", "count": 8100 }
-    ]
-  },
-  {
-    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
-    "title": "FitBuddy",
-    "companyName": "HealthWorks",
-    "id": 3,
-    "description": "Track workouts, monitor calories, and achieve your fitness goals easily.",
-    "size": 95,
-    "reviews": 52000,
-    "ratingAvg": 4.7,
-    "downloads": 8,
-    "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 4500 },
-      { "name": "4 star", "count": 12000 },
-      { "name": "5 star", "count": 33300 }
-    ]
-  },
-  {
-    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
-    "title": "LearnIt",
-    "companyName": "EduVerse",
-    "id": 4,
-    "description": "An e-learning platform offering video courses and coding challenges.",
-    "size": 120,
-    "reviews": 34000,
-    "ratingAvg": 4.6,
-    "downloads": 4.5,
-    "ratings": [
-      { "name": "1 star", "count": 800 },
-      { "name": "2 star", "count": 1300 },
-      { "name": "3 star", "count": 4200 },
-      { "name": "4 star", "count": 9600 },
-      { "name": "5 star", "count": 18100 }
-    ]
-  },
-  {
-    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
-    "title": "Musicly",
-    "companyName": "SonicWave",
-    "id": 5,
-    "description": "Stream unlimited songs, create playlists, and discover trending artists.",
-    "size": 70,
-    "reviews": 105000,
-    "ratingAvg": 4.4,
     "downloads": 10,
     "ratings": [
-      { "name": "1 star", "count": 2300 },
-      { "name": "2 star", "count": 4200 },
-      { "name": "3 star", "count": 14500 },
-      { "name": "4 star", "count": 26000 },
-      { "name": "5 star", "count": 58000 }
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 26000 }
     ]
   },
   {
-    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
-    "title": "PicArt Studio",
-    "companyName": "PixelCraft",
-    "id": 6,
-    "description": "Create, edit, and enhance photos with AI-based artistic filters.",
-    "size": 110,
-    "reviews": 79000,
-    "ratingAvg": 4.3,
-    "downloads": 7,
+    "image": "data:image/png;base64,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",
+    "title": "SnapPic",
+    "companyName": "PhotoWorks",
+    "id": 2,
+    "description": "SnapPic is a powerful photo editor with AI filters, retouch tools, collage options, and cloud sync.",
+    "size": 85,
+    "reviews": 85000,
+    "ratingAvg": 4.6,
+    "downloads": 12,
     "ratings": [
-      { "name": "1 star", "count": 1600 },
-      { "name": "2 star", "count": 2800 },
-      { "name": "3 star", "count": 9300 },
-      { "name": "4 star", "count": 18000 },
-      { "name": "5 star", "count": 47300 }
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 32000 },
+      { "name": "5 star", "count": 37000 }
     ]
   },
   {
-    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
-    "title": "Foodster",
+    "image": "data:image/jpeg;base64,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",
+    "title": "FitTrack Pro",
+    "companyName": "HealthWorks",
+    "id": 3,
+    "description": "FitTrack Pro monitors workouts, heart rate, calories, sleep, and offers AI-based exercise plans.",
+    "size": 95,
+    "reviews": 92000,
+    "ratingAvg": 4.7,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 16000 },
+      { "name": "4 star", "count": 36000 },
+      { "name": "5 star", "count": 37100 }
+    ]
+  },
+  {
+    "image": "data:image/png;base64,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",
+    "title": "FoodieGo",
     "companyName": "EatNow Inc.",
-    "id": 7,
-    "description": "Order delicious meals from nearby restaurants and track deliveries live.",
+    "id": 4,
+    "description": "FoodieGo helps discover restaurants, order meals, track deliveries, and get personalized meal recommendations.",
     "size": 90,
-    "reviews": 41000,
-    "ratingAvg": 4.1,
-    "downloads": 3.5,
+    "reviews": 78000,
+    "ratingAvg": 4.5,
+    "downloads": 11,
     "ratings": [
-      { "name": "1 star", "count": 2500 },
-      { "name": "2 star", "count": 3600 },
-      { "name": "3 star", "count": 8100 },
-      { "name": "4 star", "count": 10300 },
-      { "name": "5 star", "count": 16500 }
+      { "name": "1 star", "count": 1400 },
+      { "name": "2 star", "count": 2600 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 33600 }
     ]
   },
   {
-    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
-    "title": "Travelio",
-    "companyName": "WanderWorld",
-    "id": 8,
-    "description": "Plan trips, book hotels, and explore top destinations worldwide.",
-    "size": 75,
-    "reviews": 25000,
-    "ratingAvg": 4.5,
-    "downloads": 4,
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMVFhUXFRUVFRcWFxcVFhgVFhUXFxUVFxUYHSggGRolHRUVITEiJSkrLi4uFx8zODMtNygtLisBCgoKDg0OFxAQFy0dHR0uLS0tLS0tLS0rLS0tKystKy0tLS0tLS0tLS0tKy0tLS0tLS0tLSstLS0tLS0tLSstLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABAUCAwYHAQj/xABEEAABAwICBwUFBQUGBwEAAAABAAIDBBEhMQUSQVFhcZEGgaGxwQcyUtHhEyJCYvBygpKi8RQjQ7Kz0hUzU1Rzk8I0/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAhEQEBAAIBBAMBAQAAAAAAAAAAAQIRAxIhMVETQWEyIv/aAAwDAQACEQMRAD8A9xREQEREBERAREQERfCUH1FokqgOKiS6QOyy6mNcXkxiyRUr68kXuohrfvAXzwV6HPy/jpLr6uWmql8p6wlpxyJHgFeg+X8dUi5V2knggNJuchdSYtJyN95wPCwt1zU6F+SOhRUrNPi9i3+HE9FYRaQjd+IDg7Bc9NdTOVKRfAb5L6o6EREBERAREQEREBERAREQEREBfCbLVNOAq6oquK7mFrPLkkTZqsDJQJ6y+1QJqkqDLU8VpMZGNyt8rCWr4qHNVKsnrrbVXzaQG9daRcRV2JF+PzUOqrrEG+RHmufn0lZwN9tjyOBUXSOkMCLppXZ1NQtVNU2acfxHyCooK7WY1182g+C+snvZoPvG3XBEdLSvsNc5uy4N+vyWp85cdUHmdw3qJVVVhYbMB6LKmafdGZxed36yU0J0b/wxjm4+p9FtwGZ1jxy6KM6ZrRYYAfq54rW0Odj7o3nM8gmhYxaRcz3XW8uisaTtKMni/FvyXP6rRxO84rWazYLnlc+SlxldTKzw7+lq2SC7HA+Y5jYt686irJWm7Q4HfcDzK6PRXaQOs2Yap2O2HnbJZ3DXhrjyS+XRIvgK+rhoIiICIiAiIgIiICi1NRsCwq6jYFWTSngtMcfusc8/qMqiY7lWzVSVNTbPBV9RUg54rWMmU1VZVVdV8bH9ZrTXEj3XX4H0K5uv0ja4NwdxVVKrdIEHFVM2kTvVXX15KrZagqKua2u+6cVpqK4OaHbwD32xVJNOS3ktTZXamru8jiiuw0XpC8TMcrjoSrPRdbeS+xrSe84DzK4igqNWO24nxxVtoOrOq873AdBf1RHaU9XrSC+TQXHuy8bdFcsl1Wj4nZ77nILk9CT3L3He0dwuT6LoqGXOQ8Q31Pp1RFhGwN+87F3g3lx4rH7dzzZmO87BzKiRXkJJNmA4nedwUqSqAsxg4BoRGZhaMXnWPRvTb3r42ovgwE8hgPQLOOh2ym/5QcO87Vuc7CwsBsAwQRHwv/KO8nyCjujeNrfH5KRJr7r9/wA1Dmc4ZtPn5ILfRHaGSA2eC6PaBiRxb8l3NJUtkYHsIc05ELyF9VxVn2c7SmnfZ2Mbj98bvzDiuMsN940wz12r1FFhDKHNDmkFpAIIyIORWaxbiIiAiIgKLV1FsAttRLqi/RUs8t/6XXeE+2fJlrswml/ZUGeThfks5pP1qqvnfwHcbHotWDVPU7jbgVUVjx+yfAqVUvvhnwOB7iqareRe2O9pz7t66iIFbWlps7A+B5FU2kKwPFjjuO0clK0jICDtG7aOIXPvBBsqbaZW3z/qtTo1KLELFdJtEMa+GNSXMWDgg0GNb6OQtBHG/gPksCRvHVGkKK6DQdSdVzR7zngDoF1P2vuRNzNmj1PmVw2iqjVceK6rQbtabWv7sZPe4geV1NK6GomDGhrchYAbSfUkqfRU/wBmLnF5zO78oVbo1mtI55yZgOLz8h5qeXue7Vbnt3AbyVBnJU7MSeGK2tiIF3YHdt71IpaYN90XO15w6bhwC+yQg+84nlgoIMsllEfUKdNBHuJ5k/NV1TCzdbkSqqJU6jveaDxyPUKrqKcfhJHA4jqpVVER7pvwOB6qnmqyDYix4oj0H2c6cIJpZDvdET1cz1HevQF+fqSucx7XtNnNcHDmDde7aJrmzwslbk9oPI7R3G4WXJNXbfjy7aS0RFm0EJRRdITarOJVk2luptBrqi54Ktmm/MspHcL8T8lGkfxC2jzW7aZZDscFCnedrb8sfqt8ruIPMfVRJeXQkKoiTkHC/c70OYVVVjZ4HPuKs53bz3PHqFX1J2ZcDi08jsXUK5+uj27f1g7jxVJKz9biukrG7/qPmFR1DMVXKMAsXvtzWx52DNXXZnsfUVpvE3Vjv96V+DeNtrjwHgrbok25p1zw5fNYCIbrnqV7nob2XUcVjNrzu26x1WdzG+pK66i0XBELRQxsA+FjW+QWV5Y1nFX5mbo2U+7DIeUbz5BapqCRvvRPb+0xw8wv1UvhF81Pl/HXxfr8oxCxuF1XZqps51ziWgdLr23SnZajqP8Am08bj8QaGu/ibYritK+zL7I/aUb3G2P2TyL/ALj8Oh6qzklc3jsatHR6sTQMXOJdzLj8rdFd0dMGjE4fiO1x+Sg6HgNhrAgtGqQcCDkcNh2d6vWADE5+XAK1w1Oa45AAcfko8sH5vBSnuJyB8vNQ6hzh+E+BQQKinPxnp9VUVkThiHA9Qp9TV2zuOBwVZUVQKqquqqiDZwIPFV9TUA52KsK2ZpFjiFQVkJGLThuOf1QSWtGxerey6s1oHxH8DgRyf9Qeq8lozkvRPZhLad7fijv3tcPmVM52dYX/AE9LREXnegVLpif71hs6K5c6wJ3LlqqYEknfdd4RnyXtpoleN5PLJRZCPgPQrOScnK55KO97t3UhasGqXV+Bw/iCgyW/C/HccfJS5HP4dQok8vxt77X8RkrBFlmc3MXG8Yj5qI+Rrsjbxae5SHt2sdbgcR1zUCqz+8NU/EMj6FdIi1bbfq4/dPoqSoCvJAbY2I3qmqoyTYYkkADeTsVR0Xs87H/2x5llB+wYcdhe7A6g/KBmV7ZBC1jQ1rQ1oFgALAAbAFC0BoxtNTxwt/A0A8XZuPeSVYLzZ5br1YY9MERFw7EREBERBU6XpRcPAxOB47ioBaBmrLScwJtu81VyTDgtsfDz5621S1A3qBUVA3qXLMqypLTsC6cIlVLcb+BVHW04OLfunwVlVxt2XHI381R1pc25H3h49FRS1s7mmzsOOzuUJ9QCplbOHCxxCpCLHeEdLmgC7/2cf/rH/jf/APK4XRrMAV6F7Nor1LnfDEf5nNt5FTPwYf1HpSIi870o+kH2jceFuuC5CR1zlc+AXS6ffaI8x6rkJpd/c0eq1w8MOTyzkfvd3NF/H6KNIBud1sjnO4NH62BRZCfjH8P1WjN9kA3P6qO82/ER+0PVYya3xtPcQtD3yDYDycPWyqPkwBxt3sPoojnHYdcbRt6bUlqLe80tO/LxyK0zS3xz/M3B3eNqsEWUA31DY7jl9F97Mw/aV1M0/wDWaT+7d3otNQ++fc4eRVh2EF9I09/if/pvsmXik8x7kiIvI9giIgIixkkAzNkGSiVdVbAZ+S0VVdfAXt4qslm4LTHD2xz5PqMpZVElmWEkzVXVTwcnEc8QtGT7Uyg8OXyVbNIQsKmcjPrsUSSqVEeqqiNhtyVLV1wO1T6yrsuZ0pIHG4z/AFmqsYVzwbkYHzUKHPjuWEZJOKm0UV3BRfC9oWYBelezGDCeTeY2D90Fx/zhefU7bC+5es9gqXUo4yRjIXSH94/d8LLnkvZeOf6dCiIsHoVPac2gJ3OB81w4lNzv/E47OAXd9o4tanktsGt/CQT4BeZVExJDAbYXceefetuPww5fKXNMzaSeZ9AoT6hhNgCeDS4+SivnbezWax5ax5knJZOkkt+EcL/ILRmze9vwv/mUWWdvxObzy8ljJJJvZ/Efko0lRKNgPJwPmg2/2twGBDhw+RUQ1DHHC7HcMOrVDqKxhNnN1Tv90/VQp5uOsP5h81UT55McbAnaPdd9VdezvHSMHOT/AE3rk2T7Cbhdh7LWa2kGflZI7+W3qmX80x/qPbkRYveALk2XkexksJJA3MqBU6R2N6qrmqb7Su5h7ZZcnpaz6Q+HDiVXTVJO1QXzHeo8lRZazHTK5W+UuWoUWSrGwqFLWcVDmffgeHyVRJqZ7/rFVk0zhxHitUlQQcfotMlSivslWCqqqk1cRltG76LKrdtbnu3/AFVXJWqojVlQHbT3FVErbH1UqtscRgVGDr5qOmQjHerXRdPjdQaZlyukoYbKxKmUFGZXxwjORwbybf7x6L22CIMa1jcmgNHICwXAezbRutI+pIwaNSPvzPT/ADL0NY8l76a8U7bERFm1YvYCCDkQQeRXjnaCkdDM+LIl4AP5LYHoSvZVxntF0TrxidoxZg62ersd3ZHnwXeF1WfJNzbzd1UR9yIYDMnAX3uO9aJZfikP7oA8SodVI5oDRhmSd+OfkqaoPEnwW7HS3mqG7JCOdj8lAlrXjIhw4H0VW8cSsQSm1TX6SJwPQrSDjduHBRiVm0qpUwP2r032K0RdLNORg1gjHNx1j4NHVeWQ3cQACSSAAMSScgAv0L2T0X/w+iZGbfau+/J+24C45AADuXOd7a9rhO+/ToqqqDBvOwKkqatzsyFGqJySSXKFI/8AMVxjjpcs7UiV/wCbwUZxPxeH1WiRx2OB8FAqJ3jMEjhj9V24S6mdw3Hln0UN9VdRjXA7cVGncDiDY+HeFRvlffbioklWQbHAqK+qLfe67Oq1TVQcLFQSZZwRZVlROW54jf8ANRqiUtxBuPEc1FfXgqq3TViq6yTWNxn5rTVvtiMvL6LTHJdFZOkJWcUd18czb+uanUcWXFCtui4MV0VLTOkc2Jgu5xA7js7/ACuodLDqjjewG9elez7QGo3+0SD7zvcvuObuG4cOamV1Ek6q6nRGj2wQsib+EYneTiT1UxEXmeqCIiAsZIw4FrgCCCCDkQcwVkiDx7tz2MfAXSRAmE44Y6nBw3bivO56dwOQK/UhF8CuU032ApZyXNBicfgtqk8WHDpZaTP2yyw9Pz65v5T3LURwPgvWa32UzX/u5onDZrBzD4AquPsrrN8P8Z/2rTqntx05enmpB3L42Mk2xJOAA2ncAvWqH2QSE/31Qxo2iNpcerrDwXcdnOxFHR2dHHryD/Eks5/dhZvcApc5FmGVcf7LuwToiKyqbquGMMbs24f8x42GxwGzPNdPpKvMjiRlkCdy6DTE2rC83thbqbeq4aVxIxOqNgGdvRTG770z7do2yv3uPdgo7yPicO8fJR3tbvd/F8lFla3Y9w7wR4hds0ma+x47x6hQZ6tzfeGG8YqNUSPGRDhwwPQqF/xMZHA+IVE2WqY/Ox47eqgzOcMWnWG78X1UWpe12INjvHqNqgvrS3B30PJFTjXggg8iD8iq6qkti04bvl8loq6hrttjv2/0VW+rc049xTayJhr77VDnkxu3vHqFHmdrG4z80jfdRW1khK2iO1ty+Mg2hTYIbqo+xRXCtqKC2fD6LXSQWz/ryXV9l+zz6iS2TR7ztjRuG9xS3TnvU3sb2cNRJrvH9233uO3UHqfovU2i2AyWmipGRMbGwWa0WHzPFb158st16MMemCIi5diIiAiIgIiICIiAiIgq+0zb07+Gq48g4ErzWorHOJ1R3k2C9aniDmuacnAg94Xi+m4HxSmEnVs5wvwz78LdVrx36Y8k77fZC45vaOQJ87LRI5g/xHnvHyVfK6Me85zubrf5bKvqKmEDBv8AM7zutWaynnI911+BwPXJVlTWB2DsCOo+iqKirt7pPI59xUOWt1s89h9FNrpaPrS02JWmasBFjl+slV/b3wP9FpLyi6SnzG/Desj94LXE262sjI5IMRGQfIqSyEnFZxwXVjS0tsLK6S1hSswVhSQWNrXO757gttPTfCMN+zu3rseynZF89nuuyLa4+8/9nhxVtkndz3t7IvZjs6+ofhg0e+/Y0fC3j+ivV9HUDIIxHGLNHUnaSdpWyjpWRMDI2hrRkB+sSty8+We3oww6RERcOxERAREQEREBERAREQEREBcZ7QezTp2/bwi8jRZzfjaN35guzRWXSWbj8yVbbE3v1tbmqqogviLjvJXvva/sHHU3kisyXMj8DzxtkeK8i0z2anp3WkY5nPFp5OGBW0y2xuNjlTAVg+kOat3U7hsB8F8a3e13munO1UaY962sguLKziYPhd0W+GHcw95AVTaqhgKnw09wp8dK4/CAdwuepVlo7QzpXarGOkduAv8AQKptT0VPsAv5dVeaN0a6RwaGl7jk1oJ/r3rtdC+z17rGdwjb8DbF3XIeK7vReiYadurEwN3nNx5uzK4vJJ4dzjt89nMdnexDWWfUWcdkY90ftH8XLLmu0aLYDAL6iwuVvltjjMfAiIo6EREBERAREQEREBERAREQEREBERAWEsTXAtcA4HMEAg9xWaIOcruw9DLiYQw74yWeAw8FSz+y6nPuTSt5hjvQLvUXUys+3Nwl+nnQ9lrf+5P/AKx/uUmD2Ywj3p5D+yGt8wV3iJ15J8ePpztD2Ko4/wDC1zvkJd4ZeCvoYGsFmNDRuaAB0C2Ipba6kk8CIiiiIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIg/9k=",
+    "title": "TravelBuddy",
+    "companyName": "Wanderlust",
+    "id": 5,
+    "description": "TravelBuddy helps plan trips, book hotels, find local attractions, and provides travel tips and offline maps.",
+    "size": 110,
+    "reviews": 67000,
+    "ratingAvg": 4.4,
+    "downloads": 9,
     "ratings": [
-      { "name": "1 star", "count": 900 },
-      { "name": "2 star", "count": 1100 },
-      { "name": "3 star", "count": 3000 },
-      { "name": "4 star", "count": 7200 },
-      { "name": "5 star", "count": 12800 }
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 26800 }
+    ]
+  },
+  {
+    "image": "data:image/png;base64,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",
+    "title": "ShopEase",
+    "companyName": "Ecom Solutions",
+    "id": 6,
+    "description": "ShopEase is a shopping app that offers deals, product recommendations, online payment, and fast delivery tracking.",
+    "size": 70,
+    "reviews": 88000,
+    "ratingAvg": 4.6,
+    "downloads": 14,
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 13000 },
+      { "name": "4 star", "count": 33000 },
+      { "name": "5 star", "count": 37200 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYQ7-Zp0UgvI6OzFCUkZ4PABbVBzOc814ZQ&s",
+    "title": "NewsFlash",
+    "companyName": "Global Media",
+    "id": 7,
+    "description": "NewsFlash delivers real-time news updates, personalized topics, video news, and offline reading support.",
+    "size": 60,
+    "reviews": 72000,
+    "ratingAvg": 4.3,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 13000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 27000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX4z-9j3Dxz9_uxvyaBgiudRJf_we3Oat3XQ&s",
+    "title": "MusicWave",
+    "companyName": "Tune Labs",
+    "id": 8,
+    "description": "MusicWave streams millions of songs, allows playlists, offline downloads, and AI-based recommendations.",
+    "size": 120,
+    "reviews": 94000,
+    "ratingAvg": 4.7,
+    "downloads": 20,
+    "ratings": [
+      { "name": "1 star", "count": 1400 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 36000 },
+      { "name": "5 star", "count": 40800 }
     ]
   }
 ]

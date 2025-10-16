@@ -1,14 +1,18 @@
 import React from "react";
-import { Link, useLoaderData } from "react-router";
+import { Link, useLoaderData, useNavigation } from "react-router";
 import HomeCard from "./HomeCard";
 import image from "../assets/image/hero.png";
 
 const Home = () => {
   let data = useLoaderData();
+  let navigation=useNavigation();
+  if(navigation.state==='loading'){
+    return <h1 className="text-4xl font-bold text-center">Loading .....</h1>
+  }
 
   return (
     <>
-      <div className="banner text-center max-w-[90%] md:max-w-[80%] mx-auto">
+      <div className="banner text-center max-w-[90%] md:max-w-[80%] mx-auto ">
         <h1 className="font-bold text-6xl text-center py-4">
           We Build <br />
           <span className="text-[#632ee3]">Productive</span> Apps
@@ -67,7 +71,7 @@ const Home = () => {
         <p>Explore All Trending Apps on the Market developed by us</p>
       </div>
 
-      <div className=" card-container grid grid-cols-1 md:grid-cols-4 gap-4 max-w-[90%] md:max-w-[80%] mx-auto">
+      <div className=" card-container  grid grid-cols-1 md:grid-cols-4 gap-4 max-w-[90%] md:max-w-[80%] mx-auto">
         {data.map((card) => (
           <HomeCard card={card}></HomeCard>
         ))}

@@ -10,9 +10,9 @@ let {id,image, title, ratingAvg,downloads}=item
     return (
        <>
         <Link to={`/AppDetails/${id}`}>
-        <div className='py-6'>
-                <img className="rounded-md" src={image} />
-                 <h4 className='font-semibold'>{title}</h4>
+        <div className='py-6 bg-white h-full p-2 rounded-md'>
+                <img className="rounded-md bg-gray-100 h-[200px] m-auto" src={image} />
+                 <h4 className='font-semibold mb-2'>{title}</h4>
            
                  <div className="lastLine flex justify-between items-center">
                    <button className="flex justify-between items-center bg-[#F1F5E8] px-2 text-green-600 rounded-md">

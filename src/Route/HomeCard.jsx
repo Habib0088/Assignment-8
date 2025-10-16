@@ -9,8 +9,8 @@ const HomeCard = ({ card }) => {
   return (
     <>
       <Link to={`AppDetails/${id}`}>
-        <div className="  bg-white p-2 rounded-md">
-          <img className="rounded-md" src={image} />
+        <div className="  bg-white p-2 rounded-md h-full">
+          <img className="rounded-md bg-gray-200" src={image} />
           <h4>{title}</h4>
 
           <div className="lastLine flex justify-between items-center">
