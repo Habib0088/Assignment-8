@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "ChatWave",
+    "companyName": "WaveTech",
+    "id": 1,
+    "description": "A real-time chat app that ensures privacy and security while allowing instant text, voice, and video communication.reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, Create group chats, send files, and connect across platforms seamlessly anytime.",
+    "size": 85,
+    "reviews": 24300,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 6800 },
+      { "name": "5 star", "count": 12800 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "TaskFlow",
+    "companyName": "Prodigy Labs",
+    "id": 2,
+    "description": "TaskFlow helps manage daily work with AI scheduling, smart reminders, and habit tracking. Sync across devices,reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, collaborate with teams, and boost your productivity every single day effortlessly.",
+    "size": 60,
+    "reviews": 18000,
+    "ratingAvg": 4.2,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 8100 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "FitBuddy",
+    "companyName": "HealthWorks",
+    "id": 3,
+    "description": "Your AI fitness partner that tracks workouts, calories, and sleep. Offers personalized exercise plans and progress tracking  reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels,to help you stay motivated and meet your fitness goals easily.",
+    "size": 95,
+    "reviews": 52000,
+    "ratingAvg": 4.7,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 33300 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "LearnIt",
+    "companyName": "EduVerse",
+    "id": 4,
+    "description": "LearnIt offers thousands of video tutorials, coding challenges, and interactive lessons from experts worldwide.reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, Track progress, earn certificates, and boost your knowledge anytime, anywhere you wish.",
+    "size": 120,
+    "reviews": 34000,
+    "ratingAvg": 4.6,
+    "downloads": 4.5,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 9600 },
+      { "name": "5 star", "count": 18100 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "Musicly",
+    "companyName": "SonicWave",
+    "id": 5,
+    "description": "Enjoy high-quality music streaming, discover trending songs, create playlists, and share your favorite tunes. Musicly keeps your world musical with endless entertainment and personalized recommendations dailyreading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels,",
+    "size": 70,
+    "reviews": 105000,
+    "ratingAvg": 4.4,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 2300 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 14500 },
+      { "name": "4 star", "count": 26000 },
+      { "name": "5 star", "count": 58000 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "PicArt Studio",
+    "companyName": "PixelCraft",
+    "id": 6,
+    "description": "Edit photos, apply filters, and create digital art with ease. PicArt Studio gives AI-powered enhancementreading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, tools to transform your pictures into professional-looking masterpieces instantly and beautifully.",
+    "size": 110,
+    "reviews": 79000,
+    "ratingAvg": 4.3,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 1600 },
+      { "name": "2 star", "count": 2800 },
+      { "name": "3 star", "count": 9300 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 47300 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "Foodster",
+    "companyName": "EatNow Inc.",
+    "id": 7,
+    "description": "Find nearby restaurants, order delicious meals, and track delivery in real-time. Foodster offers discounts, reviews, and live order updates to enhance your food ordering experience daily.reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels,",
+    "size": 90,
+    "reviews": 41000,
+    "ratingAvg": 4.1,
+    "downloads": 3.5,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3600 },
+      { "name": "3 star", "count": 8100 },
+      { "name": "4 star", "count": 10300 },
+      { "name": "5 star", "count": 16500 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "Travelio",
+    "companyName": "WanderWorld",
+    "id": 8,
+    "description": "Plan and organize perfect trips with Travelio. Find hotels, book flights, explore destinations, and track itineraries with smart suggestions and real-time updates across your travels worldwidereading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels,.",
+    "size": 75,
+    "reviews": 25000,
+    "ratingAvg": 4.5,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 12800 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "NoteSphere",
+    "companyName": "Thinkify",
+    "id": 9,
+    "description": "Write, organize, and share your notes in the cloud. NoteSphere combines handwriting support, AI summaries, and secure backups for productivity across devices seamlessly and efficiently reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels,.",
+    "size": 55,
+    "reviews": 27000,
+    "ratingAvg": 4.4,
+    "downloads": 4.2,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 3400 },
+      { "name": "4 star", "count": 8500 },
+      { "name": "5 star", "count": 13100 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "FinTrack",
+    "companyName": "SmartFinance",
+    "id": 10,
+    "description": "Track your income, expenses, and savings easily. FinTrack provides budget insights, visual charts, and smart alerts to help you reach financial stability and manage your money better reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels,.",
+    "size": 65,
+    "reviews": 19000,
+    "ratingAvg": 4.3,
+    "downloads": 3.2,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "MindEase",
+    "companyName": "CalmLife",
+    "id": 11,
+    "description": "Meditation, breathing exercises, and stress relief in one app. MindEase personalizes mindfulness routines to improve focus, sleep, and relaxation using calming music and gentle reminders daily.Discover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeyDiscover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journey.",
+    "size": 80,
+    "reviews": 37000,
+    "ratingAvg": 4.6,
+    "downloads": 5.5,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3800 },
+      { "name": "4 star", "count": 8900 },
+      { "name": "5 star", "count": 22400 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "ShopEase",
+    "companyName": "RetailX",
+    "id": 12,
+    "description": "Discover millions of products, compare prices, and enjoy safe online shopping. ShopEase offers quick delivery, flash sales, and cashback rewards for a smooth shopping experience worldwide.Discover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeyDiscover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journey.",
+    "size": 115,
+    "reviews": 98000,
+    "ratingAvg": 4.4,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 9200 },
+      { "name": "4 star", "count": 24000 },
+      { "name": "5 star", "count": 57600 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "DocuScan",
+    "companyName": "ScanPro",
+    "id": 13,
+    "description": "Discover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeyDiscover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journey.Turn your mobile device into a portable scanner. DocuScan instantly captures documents, IDs, or receipts, and converts them to clear, shareable PDF files using AI edge detection.",
+    "size": 45,
+    "reviews": 23000,
+    "ratingAvg": 4.5,
+    "downloads": 4.7,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2700 },
+      { "name": "4 star", "count": 7500 },
+      { "name": "5 star", "count": 11400 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "GameBox",
+    "companyName": "PlayHub",
+    "id": 14,
+    "description": "Discover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeyDiscover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journey.A collection of exciting mini-games with leaderboards and multiplayer modes. GameBox offers daily challenges, rewards, and offline play for endless fun anywhere and anytime.",
+    "size": 150,
+    "reviews": 87000,
+    "ratingAvg": 4.2,
+    "downloads": 9.5,
+    "ratings": [
+      { "name": "1 star", "count": 2600 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 10400 },
+      { "name": "4 star", "count": 21000 },
+      { "name": "5 star", "count": 49000 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "RideGo",
+    "companyName": "UrbanMove",
+    "id": 15,
+    "description": "Book Discover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeyDiscover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journey. with RideGo. Choose cars, bikes, or cabs and track them live. Affordable, safe, and fast — the smarter way to travel in cities today.",
+    "size": 100,
+    "reviews": 45000,
+    "ratingAvg": 4.3,
+    "downloads": 6.3,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5300 },
+      { "name": "4 star", "count": 12500 },
+      { "name": "5 star", "count": 24100 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "EcoMeter",
+    "companyName": "GreenMind",
+    "id": 16,
+    "description": "MDiscover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeyDiscover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journey.rgy use and carbon footprint daily. EcoMeter helps reduce waste, save energy, and promote sustainable living with personalized eco-tips and live usage analytics easily.",
+    "size": 50,
+    "reviews": 21000,
+    "ratingAvg": 4.6,
+    "downloads": 3.7,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2600 },
+      { "name": "4 star", "count": 6600 },
+      { "name": "5 star", "count": 10600 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "TimeVault",
+    "companyName": "FocusWare",
+    "id": 17,
+    "description": "Discover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeyDiscover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journey.",
+    "size": 58,
+    "reviews": 28000,
+    "ratingAvg": 4.4,
+    "downloads": 3.9,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3300 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 11300 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "WeatherNow",
+    "companyName": "SkyCast",
+    "id": 18,
+    "description": "Discover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeyAccurate weather forecasts, radar updates, and alerts for your location. WeatherNow delivers temperature trends, air quality, and storm warnings in a clean, easy-to-use interface.",
+    "size": 52,
+    "reviews": 39000,
+    "ratingAvg": 4.5,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 4100 },
+      { "name": "4 star", "count": 10400 },
+      { "name": "5 star", "count": 22600 }
+    ]
+  },
+  {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "BookNest",
+    "companyName": "Readify",
+    "id": 19,
+    "description": "Discover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeyDiscover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journey.",
+    "size": 90,
+    "reviews": 61000,
+    "ratingAvg": 4.7,
+    "downloads": 7.4,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4300 },
+      { "name": "4 star", "count": 12500 },
+      { "name": "5 star", "count": 42100 }
+    ]
+  },
+ {
+    "image": "https://www.pix-craft.com/images/gallery/17_after.jpg",
+    "title": "BookNest",
+    "companyName": "Readify",
+    "id": 19,
+    "description": "Discover and read thousands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journeusands of eBooks, novels, and audiobooks. BookNest personalizes recommendations, saves highlights, and syncs reading progress across devices for a perfect reading journey.",
+    "size": 90,
+    "reviews": 61000,
+    "ratingAvg": 4.7,
+    "downloads": 7.4,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4300 },
+      { "name": "4 star", "count": 12500 },
+      { "name": "5 star", "count": 42100 }
+    ]
+  }
+]

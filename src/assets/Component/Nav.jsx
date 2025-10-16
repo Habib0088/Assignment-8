@@ -1,16 +1,21 @@
 import React from 'react';
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
+import './nav.css'
+import logo from'../image/logo.png'
+import { FaGithub } from "react-icons/fa6";
 
 const Nav = () => {
     let links=< >
-    <Link to='/'><li className='text-[#632EE3] font-semibold hover:underline cursor-pointer mr-2'>Home</li></Link>
-    <Link to='Apps'><li className='font-semibold hover:underline cursor-pointer mr-2'>App</li></Link>
-    <Link to='Installation'><li className='font-semibold hover:underline cursor-pointer mr-2'>Installation</li></Link>
+    
+    <NavLink to='/'><li className=' font-semibold hover:underline cursor-pointer mr-2'>Home</li></NavLink>
+    <NavLink to='Apps'><li className='font-semibold hover:underline cursor-pointer mr-2'>App</li></NavLink>
+    <NavLink to='Installation'><li className='font-semibold hover:underline cursor-pointer mr-2'>Installation</li></NavLink>
+    
     </>
     return (
         
         
-      <div className="navbar bg-base-100 shadow-sm">
+      <div className="navbar bg-base-100 shadow-sm  max-w-[90%] md:max-w-[80%] mx-auto border-x-0 shadow-none">
   <div className="navbar-start">
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -22,7 +27,7 @@ const Nav = () => {
         {links}
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">daisyUI</a>
+ <Link to='/'> <div className='flex items-center'><img className='h-[30px]' src={logo} /> <small className='text-[#632EE3] font-bold ml-2'>HERO.IO</small></div></Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
@@ -32,7 +37,12 @@ const Nav = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn">Button</a>
+   
+
+<Link to='https://github.com/dashboard'><button className='bg-[#632EE3] px-4 py-2 rounded-md flex items-center text-white'><FaGithub />
+<p className='ml-2'>Contribute</p></button></Link>
+
+
   </div>
 </div>
     );
