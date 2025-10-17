@@ -9,7 +9,7 @@ const Nav = () => {
     
     <NavLink to='/'><li className=' font-semibold hover:underline cursor-pointer mr-2'>Home</li></NavLink>
     <NavLink to='Apps'><li className='font-semibold hover:underline cursor-pointer mr-2'>App</li></NavLink>
-    <NavLink to='Installation'><li className='font-semibold hover:underline cursor-pointer mr-2'>Installation</li></NavLink>
+    <NavLink to='/Installation'><li className='font-semibold hover:underline cursor-pointer mr-2'>Installation</li></NavLink>
     
     </>
     return (
@@ -39,7 +39,7 @@ const Nav = () => {
   <div className="navbar-end">
    
 
-<Link to='https://github.com/dashboard'><button className='bg-[#632EE3] px-4 py-2 rounded-md flex items-center text-white'><FaGithub />
+<Link to='https://github.com/Habib0088'><button className='bg-[#632EE3] px-4 py-2 rounded-md flex items-center text-white'><FaGithub />
 <p className='ml-2'>Contribute</p></button></Link>
 
 

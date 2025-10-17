@@ -1,5 +1,5 @@
 import React from "react";
-import { useLoaderData, useNavigate, useNavigation } from "react-router";
+import { useLoaderData, useNavigation } from "react-router";
 import AppsCards from "../assets/Component/AppsCards";
 
 const Apps = () => {

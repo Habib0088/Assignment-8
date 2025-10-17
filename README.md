@@ -17,3 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 Install Now ()
+
+let filteredData=allData.filter(book=> convertedData.includes(book.id))
+    console.log(filteredData);
