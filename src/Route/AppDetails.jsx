@@ -25,9 +25,9 @@ const AppDetails = () => {
   const allData = useLoaderData();
   const singleData = allData.find(a => a.id === intId);
 
-  // Check if this app is already installed
+
   useEffect(() => {
-    const data = getFromLS(); // get array from localStorage
+    const data = getFromLS(); 
     const convertedData = data.map(id => parseInt(id));
     const list=allData.filter(card=>convertedData.includes(card.id))
     setList(list);
@@ -35,13 +35,13 @@ const AppDetails = () => {
   }, []);
 
   const handleInstall = (id) => {
-    addDataToLS(id); // add to localStorage
-    setInstall(true); // update state
-    // Swal.fire({
-    //   title: "Install Done!",
-    //   icon: "success",
-    //   draggable: true
-    // });
+    addDataToLS(id); 
+    setInstall(true); 
+    Swal.fire({
+      title: "Install Done!",
+      icon: "success",
+      draggable: true
+    });
   };
 
   const { title, image, ratingAvg, downloads, reviews, companyName, description, size, ratings } = singleData;

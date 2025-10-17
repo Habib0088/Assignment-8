@@ -66,7 +66,7 @@ const Home = () => {
         </div>
       </div>
      <div className="bg-gray-200">
-       <div className="text-center my-5">
+       <div className="text-center py-5">
         <h1 className="text-4xl font-bold text-center my-7">Trending Apps</h1>
         <p>Explore All Trending Apps on the Market developed by us</p>
       </div>
