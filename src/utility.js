@@ -13,6 +13,7 @@ let addDataToLS = (id) => {
   let data = getFromLS();
   if (data.includes(id)) {
     alert("Already exist the data here");
+    return
   } else {
     data.push(id);
 

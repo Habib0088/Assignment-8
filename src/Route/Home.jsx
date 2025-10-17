@@ -2,6 +2,10 @@ import React from "react";
 import { Link, useLoaderData, useNavigation } from "react-router";
 import HomeCard from "./HomeCard";
 import image from "../assets/image/hero.png";
+import { IoLogoGooglePlaystore } from "react-icons/io5";
+import { FaAppStore } from "react-icons/fa";
+
+
 
 const Home = () => {
   let data = useLoaderData();
@@ -23,15 +27,18 @@ const Home = () => {
           into digital experiences that truly make an impact.
         </p>
 
-        <div className="button-line">
+        <div className="button-line flex items-center justify-center">
           <Link to="https://play.google.com/store/games?device=windows">
-            <button className="outline px-6 py-2 my-3 mr-3 rounded-md">
-              <h4>Play Store</h4>
+            <button className="border-gray-300 border-1 px-6 py-2 my-3 mr-3 rounded-md">
+              <h4 className="flex items-center font-semibold"> <small className="text-blue-300  text-2xl"><IoLogoGooglePlaystore /></small>
+Play Store</h4>
             </button>
           </Link>
           <Link to="https://www.apple.com/app-store/">
-            <button className="outline px-6 py-2 my-3 mr-3 rounded-md">
-              App Store
+            <button className="border-gray-300 border-1 px-6 py-2 my-3 mr-3 rounded-md">
+              <h4 className="flex items-center font-semibold"><small className="bg-[#00BFFC]  text-white text-2xl rounded-full"><FaAppStore /></small>
+ App Store</h4>
+               
             </button>
           </Link>
         </div>

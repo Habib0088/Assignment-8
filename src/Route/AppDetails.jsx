@@ -37,11 +37,16 @@ const AppDetails = () => {
   const handleInstall = (id) => {
     addDataToLS(id); 
     setInstall(true); 
-    Swal.fire({
+   if(install){
+    alert("Already istalled")
+   }
+   else{
+     Swal.fire({
       title: "Install Done!",
       icon: "success",
       draggable: true
-    });
+    })
+   }
   };
 
   const { title, image, ratingAvg, downloads, reviews, companyName, description, size, ratings } = singleData;
@@ -88,14 +93,14 @@ const AppDetails = () => {
           </div>
 
           {/* Install Button */}
-          <Link to='/Installation'>
+          
           <button
             onClick={() => handleInstall(intId)}
             disabled={install}
             className='bg-[#00D390] px-4 py-2 rounded-md text-white mt-4'
           >
             {install ? `Installed` : `Install Now (${size}) MB`}
-          </button></Link>
+          </button>
           
           
         </div>
